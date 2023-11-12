@@ -113,7 +113,7 @@
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"/Users/ozyolmelis/Desktop/driver/driver/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"/Users/ozyolmelis/Desktop/GAME/driver/driver/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"/Users/ozyolmelis/Documents/2021.3.29f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll"
 -r:"/Users/ozyolmelis/Documents/2021.3.29f1/Unity.app/Contents/Managed/UnityEditor.Graphs.dll"
 -r:"/Users/ozyolmelis/Documents/2021.3.29f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll"

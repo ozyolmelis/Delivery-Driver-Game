@@ -20,7 +20,7 @@ public class Delivery : MonoBehaviour
 
      void OnCollisionEnter2D(Collision2D other) 
     {
-        Debug.Log("kopernik pizza, galaksinin en sıcak piiiizzasıı");
+        Debug.Log("The hottest pizza ever!");
         
     }
 
